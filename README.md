@@ -32,7 +32,7 @@
 ## 一键脚本
 
 ```
-bash <(curl -L -s https://raw.githubusercontent.com/Baiyuetribe/baiyue_onekey/master/go.sh)
+bash <(curl -L -s https://github.com/cherry90060/baiyue_onekey/blob/master/go.sh)
 ```
 
 
